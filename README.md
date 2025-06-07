@@ -1,9 +1,6 @@
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" />  
 <h1>Bonjour! I'm <a href="https://github.com/Guna1301">Guna Sai</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/></h1>
 
----
-
-### 📬 Connect with Me
+### Find Me at
 [![Github](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Guna1301/)](https://github.com/Guna1301/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guna-sai-3673592ba/)](https://www.linkedin.com/in/guna-sai-3673592ba/)
 [![Gmail](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:gskotipalli2005@gmail.com)](mailto:gskotipalli2005@gmail.com)
@@ -11,45 +8,26 @@
 
 ---
 
-### About Me
-I'm a Computer Science student at Keshav Memorial Institute of Technology. I enjoy coding, solving problems, and building projects that help me learn new technologies and improve my skills.
+### About Me  
+- CS student who loves coding and building cool projects  
+- Enjoy solving challenges and learning new tech  
+- Driven by code, energized by music and movies.
 
----
 
-### ⚡ Quick Facts
-- 🎓 CS student who loves coding and learning  
-- 🧠 Always up for solving challenging problems  
-- 🚀 Curious about new tech and tools  
-- 🛠 Building apps and exploring system design  
-- 💡 Turning ideas into projects that matter  
-- 🎧 Music and movies fuel my focus 
+### Tech & Tools
 
----
-
-###  What I’m Working On
-- 🎵 A **Spotify-inspired music app** with live chat and real-time features  
-- 🧠 A **cognitive retraining platform** for kids with autism & dyslexia  
-- 💪 Building and deploying an **AI Fitness Trainer** using **Next.js**
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)]() [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]() [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]() [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]() [![MERN](https://img.shields.io/badge/MERN-007ACC?style=for-the-badge)]() [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]() [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]() [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]() [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]() [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]() [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)]() [![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)]()
 
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)]() [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]() [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]() [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]() [![MERN](https://img.shields.io/badge/MERN-007ACC?style=for-the-badge)]() [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]() [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]() [![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)]() [![AWS VPC](https://img.shields.io/badge/AWS_VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]() [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]() [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]() [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)]() [![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)]()
-
-
-
----
-
-### 📈 GitHub Stats
+### Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guna1301&show_icons=true&theme=github_dark&hide_border=true" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guna1301&layout=compact&theme=github_dark&hide_border=true" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Guna1301&show_icons=true&theme=github_dark&hide_border=true" width="47%" alt="Guna1301 GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guna1301&layout=compact&theme=github_dark&hide_border=true" width="40%" alt="Guna1301 GitHub Stats"/>
 </p>
----
 
-> *"The only way to do great work is to love what you do."* — **Steve Jobs**  
+> *"The only way to do great work is to love what you do"* - **Steve Jobs** 
 > <img align="right" src="https://komarev.com/ghpvc/?username=Guna1301" alt="Profile Views" style="margin-left:10px;" />
 
 
