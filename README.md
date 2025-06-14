@@ -27,7 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Guna1301&show_icons=true&theme=github_dark&hide_border=true" width="47%" alt="Guna1301 GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guna1301&layout=compact&theme=github_dark&hide_border=true" width="40%" alt="Guna1301 GitHub Stats"/>
 </p>
->
+-->
 > *"The only way to do great work is to love what you do"* - **Steve Jobs** 
 > <img align="right" src="https://komarev.com/ghpvc/?username=Guna1301" alt="Profile Views" style="margin-left:10px;" />
 
